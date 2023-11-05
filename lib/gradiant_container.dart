@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:dices/text_style.dart';
 
 // Class for a custome widget to capsulate the color and text logic.
 class GradientContainer extends StatelessWidget {
@@ -18,10 +19,7 @@ class GradientContainer extends StatelessWidget {
         ),
       ),
       child: const Center(
-        child: Text(
-          'Hello world!',
-          style: TextStyle(color: Colors.white, fontSize: 28),
-        ),
+        child: StyledText(),
       ),
     );
   }
