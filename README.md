@@ -1,16 +1,18 @@
-# dices
+# Dice Roller App
 
-A new Flutter project.
+Dice Roller is a simple, fun Flutter app that lets you roll a 6-sided dice. It's a perfect digital companion for board games, decision making, or just for fun!
+
+## Features
+
+- Elegant gradient background
+- Tap a button to roll a dice
+- Animated dice roll with actual images of a dice
+- Displays the result with a nice animation
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get a local copy up and running, follow these simple steps.
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Make sure you have Flutter installed on your local machine. For help installing Flutter, see the [Flutter documentation](https://flutter.dev/docs/get-started/install).
