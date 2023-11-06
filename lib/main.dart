@@ -10,6 +10,7 @@ void main() {
           Color.fromARGB(255, 61, 9, 97),
         ),
       ),
+      debugShowCheckedModeBanner: false,
     ),
   );
 }
