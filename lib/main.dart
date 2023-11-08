@@ -1,7 +1,7 @@
 // Importing required material components from the Flutter framework.
 import 'package:flutter/material.dart';
 // Importing required material components from the Flutter framework.
-import 'package:dices/gradiant_container.dart';
+import 'package:dices/gradient_container.dart';
 
 /// The entry point of the Flutter application.
 void main() {
